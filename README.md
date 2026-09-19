@@ -5,6 +5,6 @@
 - 📫 Connect with me: mabelaubong@gmail.com
 
 <!---
-You found a secret! mabelubong/mabelubong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You found a secret! mabelubong/mabel-ubong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
